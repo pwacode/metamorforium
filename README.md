@@ -3,11 +3,11 @@ Metamorforium.ru
 
 /Open beta version/
 
+Metamorforium.ru is a Metaphorical Cards Therapy Tool, whish is intended for psychotherapy sessions under a psychologist-specialist's supervision.
+
 
 ![webapplication screen](https://github.com/user-attachments/assets/abd582ac-33ef-45a8-bfb7-22c9a8488ad2)
 
-
-Metamorforium.ru is a Metaphorical Cards Therapy Tool, whish is intended for psychotherapy sessions under a psychologist-specialist's supervision.
 
 Metamorforium.ru - is web-based and is accessible online via a web-browser.
 
