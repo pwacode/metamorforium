@@ -15,8 +15,6 @@ After you sighing up you get your private account. Terms & Conditions are availa
 
 You can choose your subscription plan for using the service.
 
-The owner and the administrator - Victoria Borovkova/info@metamorforium.ru
-
 The developer - pwacode@mailfence.com
 
 The link - https://github.com/pwacode/metamorforium
