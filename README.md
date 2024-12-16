@@ -11,7 +11,7 @@ Metamorforium.ru is a Metaphorical Cards Therapy Tool, whish is intended for psy
 
 Metamorforium.ru - is web-based and is accessible online via a web-browser.
 
-After you sighing up you get your private account. Terms & Conditions are available here - https://metamorforium.ru/templates/offer-conditions.php, https://metamorforium.ru/templates/disclaimer.php, https://metamorforium.ru/templates/regulation.php 
+After you sighing up you get your private account. Terms & Conditions are available here - https://metamorforium.ru/templates/offer-conditions.php, https://metamorforium.ru/templates/disclaimer.php
 
 You can choose your subscription plan for using the service.
 
